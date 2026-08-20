@@ -1,0 +1,11 @@
+{
+  "platform": "next",
+  "app": "liara-assistant",
+  "port": 3000,
+  "build": {
+    "node": {
+      "version": "20"
+    }
+  },
+  "disks": []
+}
